@@ -55,6 +55,22 @@
 	</issueManagement>
 
 	-->
+	<distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://3.6.89.76:8081/yazz/repository/yazzbank-snapshot/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://3.6.89.76:8081/yazz/repository/yazzbank-release/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
+	
 	<build>
 	  <plugins>
 	    <plugin>
