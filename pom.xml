@@ -18,9 +18,10 @@
 	<description>Maven Standalone Application</description>
 
 	<properties>
-		<sonar.host.url>http://35.154.242.68:9000/</sonar.host.url>
+		<sonar.host.url>http://43.204.111.27:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password>
+		<sonar.login>squ_8b54318dcba3fd9abdf4c8cc9bd3b595e2b32418</sonar.login>
+
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>11</maven.compiler.source>
                 <maven.compiler.target>11</maven.compiler.target>
