@@ -18,6 +18,8 @@
 	<description>Maven Standalone Application</description>
 
 	<properties>
+		<jdk.version>1.8</jdk.version>
+		<junit.version>4.11</junit.version>
 		<sonar.host.url>http://43.204.111.27:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.login>squ_8b54318dcba3fd9abdf4c8cc9bd3b595e2b32418</sonar.login>
